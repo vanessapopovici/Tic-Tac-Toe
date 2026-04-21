@@ -19,4 +19,4 @@ A browser-based Tic Tac Toe game built with HTML, CSS, and JavaScript.
 - Vanilla JavaScript
 
 ## License
-MIT
+This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
